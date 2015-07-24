@@ -1,0 +1,16 @@
+ICC profiles can be downloaded from:
+
+1. adobe
+
+http://www.adobe.com/support/downloads/detail.jsp?ftpID=3682
+http://www.adobe.com/support/downloads/thankyou.jsp?ftpID=3682&fileID=3457
+
+2. ECI
+
+http://www.eci.org/doku.php?id=en:downloads
+http://www.eci.org/_media/downloads/icc_profiles_from_printing_houses/bauer_bdk_lwc_65g_0803_1.1.zip
+http://www.eci.org/_media/downloads/icc_profiles_from_eci/eci_offset_2009.zip
+
+3. axelspringer
+
+http://www.axelspringer.de/artikel/cw_artikel_nv_de_515112.html
